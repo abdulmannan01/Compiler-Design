@@ -1,0 +1,4 @@
+Commands:
+
+1. to compile: gcc parserLL1.c
+2. Execute: ./a.out
